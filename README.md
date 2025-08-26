@@ -25,6 +25,3 @@ The submitted data is displayed in a pop-up dialog.
 - **AWT** for layout management.
 
 ---
-
-## 📂 Project Structure
-
